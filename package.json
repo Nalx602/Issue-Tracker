@@ -1,0 +1,33 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "bug tracker made with  Node.JS and MongoDB, JS and HTML and CSS",
+  "main": "app.js",
+  "dependencies": {
+    "16": "^0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.10",
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nalx602/Issue-Tracker.git"
+  },
+  "author": "Alexandru Negrut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nalx602/Issue-Tracker/issues"
+  },
+  "homepage": "https://github.com/Nalx602/Issue-Tracker#readme"
+}
