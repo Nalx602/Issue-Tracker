@@ -8,3 +8,6 @@ const commentSchema = new mongoose.Schema({
   date: Date, //this should be when the comment is created
   author: Array, //the userID of the logged in user who creates the comment
 });
+
+const Comment = mongoose.model('Comment', commentSchema);
+module.exports = Comment;
