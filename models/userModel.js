@@ -11,12 +11,12 @@ const userSchema = new mongoose.Schema({
     type: String,
     enum: {
       values: [
-        'admin',
-        'front-end engineer',
-        'back-end engineer',
-        'tester',
-        'project manager',
-        'sales',
+        'Admin',
+        'Front-end engineer',
+        'Back-end engineer',
+        'Tester',
+        'Project manager',
+        'Sales rep',
       ],
       message:
         'A user must have one of the following roles: admin, front-end engineer, back-end engineer, tester, project manager, sales.',

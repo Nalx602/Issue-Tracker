@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Uneeq",
+    "description": "Project for implementing a travel guide application.",
+    "status": "ongoing",
+    "teams": [],
+    "members": []
+  },
+  {
+    "name": "Amtap",
+    "description": "Project helping charities getting more exposed through social-media.",
+    "status": "ongoing",
+    "teams": [],
+    "members": []
+  },
+  {
+    "name": "Besto",
+    "description": "Project for an application to help cooks find the best ingredients in a city.",
+    "status": "ongoing",
+    "teams": [],
+    "members": []
+  },
+  {
+    "name": "Bleendot",
+    "description": "Project helping city councils to automate their common tasks.",
+    "status": "ongoing",
+    "teams": [],
+    "members": []
+  }
+]
